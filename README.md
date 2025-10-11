@@ -80,7 +80,7 @@ The contact form is configured to send submission data to a Google Apps Script U
     });
     ```
 
----
+--
 
 ## 🖼️ Screenshots
 
