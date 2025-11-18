@@ -83,7 +83,7 @@ The contact form is configured to send submission data to a Google Apps Script U
 --
 
 ## 🖼️ Screenshots
-
+ 
 _You can add screenshots of the website's sections here to showcase the design._
 
 | Hero Section                                   | Services Section                            |
