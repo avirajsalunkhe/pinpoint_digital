@@ -1,4 +1,4 @@
-# Pinpoint Digital - Digital Marketing Agency Landing Page
+# Pinpoint Digital - Digital Marketing Agency Landing Page And Form
 
 This is a fully responsive, single-page landing website for **Pinpoint Digital**, a digital marketing agency specializing in Google Business Profile optimization for local businesses in Pune. The site is designed to attract clients and generate leads through a "Free Audit" offer, with form data captured using a serverless Google Apps Script backend.
 
